@@ -1,0 +1,93 @@
+Features:
+
+Admin Panel:
+
+Manage Category List
+
+Manage Brand List
+
+Manage Products
+
+Manage Orders/ confirm orders
+
+insert Products
+
+
+Client Features:
+
+Browse products with details
+
+Shopping cart
+
+User registration and login
+
+Manage orders
+
+Manage account details
+
+Add products to the wishlist
+
+Track the progress of the order product
+
+Send messages to management
+
+
+
+How to Run the Online Shopping Portal Using PHP and MySQL
+
+Requirements:
+
+Download and install a local web server such as XAMPP, WAMP, or LAMP.
+
+Start your local web server and ensure Apache and MySQL services are running.
+
+Installation:
+
+Extract the source code zip file.
+
+Copy the extracted folder (e.g., "kyanja") to the web server’s root directory:
+
+For XAMPP: xampp/htdocs/kyanja
+
+For WAMP: wamp/www/kyanja
+
+For LAMP: var/www/html/kyanja
+
+Locate the provided SQL file ("shopping.sql") inside the extracted folder.
+
+Open PHPMyAdmin in your browser by navigating to http://localhost/phpmyadmin.
+
+Create a new database named shopping.
+
+Import the "shopping.sql" file into the newly created database.
+
+How to Run:
+
+Access the frontend by navigating to http://localhost/kyanja in your browser.
+
+Access the admin panel by navigating to http://localhost/kyanja/admin.
+
+Login Details:
+
+
+For Users:
+
+Create a user account
+
+
+For Admins:
+
+Username: Guloba Brian
+
+Password: Test@123
+
+
+
+
+
+Contact Information:
+For inquiries, feel free to reach out via:
+
+Phone: 0750926918 (Available on WhatsApp and direct calls)
+
+Email: gulobabrian@gmail.com
